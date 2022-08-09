@@ -1,0 +1,13 @@
+SORU ILE ILGILI ACIKLAMA-SAYI BULMACA
+Amac: bilgisayarin random olarak hafizasinda olusturdugu 4 basamakli ve
+rakamlari bir-birinden farkli sayiyi bulmak.
+ 1- Bilgilendirme metni farkli bir txt dosyasindan ve bir methodla kullanici isterse gorecek
+    istemezse direk oyuna baslayabilir.
+ 2- Bilgisayarin 4 basamakli ve rakamlari birbirinden farkli sayi uretmesini bir method'la saglamaliyiz.
+ 3- kulanicidan rakamlari birbirinden farkli 4 basamakli bir sayi alinir.
+ 4- Kullanicidan alinan sayi ile Bilgisayarin hafizasinda tuttugu sayinin karsilastirmasi yapilir ve kullaniciya:
+    a. + ve - (ornek: + 2, - 1) seklinde donus yapilir.
+        Not: +2 bilinen ve yeri dogru sayilari
+             -1 bilenen fakat yeri yanlis olan sayilari belirler.
+    b. + 4 olana kadar kullanicidan tekrar rakam alinir
+ 5- En son kullaniciya kac seferde buldugu mesaji verilir.
